@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankita-das-26&label=Profile%20views&color=0e75b6&style=flat" alt="ankita-das-26" /> </p>
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Mern Stack**
 
 - 👯 I’m looking to collaborate on **Open-Source and frontend websites**
 
