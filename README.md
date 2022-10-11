@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankita-das-26" alt="ankita-das-26" /></a> </p>
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Mern Stack**
 
-- 👯 I’m looking to collaborate on **Open -source and frontend websites**
+- 👯 I’m looking to collaborate on **Open -source and Frontend Websites**
 
 - 📫 How to reach me **ankitaa0260@gmail.com**
 
