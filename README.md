@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mern Stack**
 
-- 👯 I’m looking to collaborate on **Open -source and Frontend Websites**
+- 👯 I’m looking to collaborate on **Open-source and Full-Stack Websites**
 
 - 📫 How to reach me **ankitaa0260@gmail.com**
 
