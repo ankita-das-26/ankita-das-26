@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Mern Stack**
 
-- 👯 I’m looking to collaborate on **Open-Source and frontend websites**
+- 👯 I’m looking to collaborate on **Open-Source and Frontend Websites**
 
 - 📫 How to reach me **ankitaa0260@gmail.com**
 
@@ -22,3 +22,4 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankita-das-26&show_icons=true&locale=en" alt="ankita-das-26" /></p>
+<img src="https://platane.github.io/snk/">
